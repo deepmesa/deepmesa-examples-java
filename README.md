@@ -1,5 +1,7 @@
 # deepmesa-examples-java
 
+![License](https://img.shields.io/badge/License-Apache--2.0-blue)
+
 This is a repository of java examples to go along with the [deepmesa](https://www.deepmesa.com) blog and documentation. For more see: https://www.deepmesa.com/blog.
 
 # Usage
